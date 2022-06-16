@@ -1,2 +1,1 @@
-# pizza-time
-Initial Repo Thinkful
+# pizza
